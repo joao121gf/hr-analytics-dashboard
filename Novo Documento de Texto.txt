@@ -1,0 +1,3 @@
+nome: Dashboard de Indicadores de RH
+tecnologias: Python, Pandas, Power BI, Excel
+descricao: Extração e limpeza de dados de uma base do Kaggle sobre recursos humanos. Geração de indicadores como rotatividade, absenteísmo, diversidade e tempo médio de contratação. Visualização final em dashboard interativo no Power BI.
